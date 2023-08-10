@@ -18,6 +18,10 @@
 <img src="https://user-images.githubusercontent.com/94061061/259590063-dfa6f30a-12cf-4ea6-89ef-665f6852a30b.png" width="250" height="500"/>
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/94061061/259590469-dd57d400-e3c1-4e59-8df4-2ebf4bd5a824.png" width="250" height="500"/>
+</p>
+
 
 
 ## 기술 스택
