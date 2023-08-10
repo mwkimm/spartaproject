@@ -2,11 +2,11 @@
 
 
 
-<p align="left">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/94061061/259588265-0d6f3a18-0a9a-405b-9f6a-9e796a369f17.png" width="250" height="500"/>
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/94061061/259588272-f07282c5-8ffc-4b36-8210-315e3f4e1da4.png" width="250" height="500"/>
 </p>
 
