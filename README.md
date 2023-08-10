@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/94061061/259588265-0d6f3a18-0a9a-405b-9f6a-9e796a369f17.png" width="250" height="500"/>
 </p>
 
-<p align="left-center">
+<p align="left">
 <img src="https://user-images.githubusercontent.com/94061061/259588272-f07282c5-8ffc-4b36-8210-315e3f4e1da4.png" width="250" height="500"/>
 </p>
 
@@ -31,6 +31,9 @@
 * IDE : android studio
 
 ### 기능
-* 아이디, 비밀번호 둘 중에 하나라도 입력하지 않으면 입력하세요 라는 토스트메시지
-* 회원가입시
+* 로그인 시 아이디, 비밀번호 둘 중에 하나라도 입력하지 않으면 입력하세요 라는 토스트메시지
+* 회원가입시 아이디, 비밀번호, 이름 셋 중 하나라도 입력하지 않으면 입력하세요 라는 토스트메시지
+* 홈 화면시 종료 버튼 클릭 시 버튼색, 버튼안 그림 모양, 글자색 바뀌는 기능
+* 로그인 아이디가 홈화면에 반영되는 기능
+* 회원가입 아이디 비밀번호 2개의 데이터가 로그인 화면에 반영 되는 기능
 * 
