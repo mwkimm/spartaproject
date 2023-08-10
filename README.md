@@ -14,11 +14,10 @@
 <img src="https://user-images.githubusercontent.com/94061061/259588276-47194265-5683-4cb4-8460-3cc12bdf78ea.png" width="250" height="500"/>
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/94061061/259590063-dfa6f30a-12cf-4ea6-89ef-665f6852a30b.png" width="250" height="500"/>
+</p>
 
-<p align="center">//</p>
-<p align="center"></p>
-<p> </p>
-<p> </p>
 
 
 ## 기술 스택
@@ -29,5 +28,5 @@
 
 ### 기능
 * 아이디, 비밀번호 둘 중에 하나라도 입력하지 않으면 입력하세요 라는 토스트메시지
-* 
+* 회원가입시
 * 
