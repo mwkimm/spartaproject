@@ -15,8 +15,8 @@
 </p>
 
 
-<p align="center">기능</p>
-<p align="center">아이디, 비밀번호 둘 중에 하나라도 입력하지 않으면 입력하세요 라는 토스트메시지</p>
+<p align="center">//</p>
+<p align="center"></p>
 <p> </p>
 <p> </p>
 
@@ -28,6 +28,6 @@
 * IDE : android studio
 
 ### 기능
-* 
+* 아이디, 비밀번호 둘 중에 하나라도 입력하지 않으면 입력하세요 라는 토스트메시지
 * 
 * 
